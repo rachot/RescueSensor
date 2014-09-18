@@ -1,0 +1,748 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+ADC_CamX	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	18;"	v	line:18
+ADC_CamY	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	18;"	v	line:18
+ADC_DriveX	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	17;"	v	line:17
+ADC_DriveY	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	17;"	v	line:17
+ADC_JointX	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	19;"	v	line:19
+ADC_JointY	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	19;"	v	line:19
+AckI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	11;"	f	line:11	signature:(void)
+AckI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	111;"	p	line:111	signature:(void)
+BusyUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	11;"	f	line:11	signature:(void)
+BusyUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	130;"	p	line:130	signature:(void)
+BusyUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	196;"	f	line:196	signature:(void)
+BusyUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	165;"	p	line:165	signature:(void)
+CODE_PROT_OFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	13;"	v	line:13
+CloseI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	26;"	f	line:26	signature:(void)
+CloseI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	113;"	p	line:113	signature:(void)
+CloseMCPWM	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.c	15;"	f	line:15	signature:(void)
+CloseMCPWM	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	476;"	p	line:476	signature:(void)
+CloseQEI	C:\Program Files\Microchip\C30 Library\support\h\qei.h	112;"	p	line:112	signature:(void)
+CloseUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	23;"	f	line:23	signature:(void)
+CloseUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	117;"	p	line:117	signature:(void)
+CloseUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	208;"	f	line:208	signature:(void)
+CloseUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	152;"	p	line:152	signature:(void)
+ConfigIntI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	47;"	f	line:47	signature:(unsigned int config)
+ConfigIntI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	115;"	p	line:115	signature:(unsigned int)
+ConfigIntMCPWM	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.c	53;"	f	line:53	signature:(unsigned int config)
+ConfigIntMCPWM	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	478;"	p	line:478	signature:(unsigned int config)
+ConfigIntQEI	C:\Program Files\Microchip\C30 Library\support\h\qei.h	114;"	p	line:114	signature:(unsigned int)
+ConfigIntUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	41;"	f	line:41	signature:(unsigned int config)
+ConfigIntUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	119;"	p	line:119	signature:(unsigned int config)
+ConfigIntUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	226;"	f	line:226	signature:(unsigned int config)
+ConfigIntUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	154;"	p	line:154	signature:(unsigned int config)
+DFLTCON_VALUE::0x0000	C:\Program Files\Microchip\C30 Library\support\h\qei.h	17;"	d	line:17
+DTCON1_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	22;"	d	line:22
+DTCON2_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	23;"	d	line:23
+DataRdyI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	66;"	f	line:66	signature:(void)
+DataRdyI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	117;"	p	line:117	signature:(void)
+DataRdyUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	64;"	f	line:64	signature:(void)
+DataRdyUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	121;"	p	line:121	signature:(void)
+DataRdyUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	249;"	f	line:249	signature:(void)
+DataRdyUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	156;"	p	line:156	signature:(void)
+DisableIntFLTA::asm("BCLRIEC2,#11")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	377;"	d	line:377
+DisableIntFLTB::asm("BCLRIEC2,#12")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	471;"	d	line:471
+DisableIntMCPWM::asm("BCLRIEC2,#7")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	373;"	d	line:373
+DisableIntMI2C::asm("BCLRIEC0,#14")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	105;"	d	line:105
+DisableIntQEI::asm("BCLRIEC2,#8")	C:\Program Files\Microchip\C30 Library\support\h\qei.h	105;"	d	line:105
+DisableIntSI2C::asm("BCLRIEC0,#13")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	100;"	d	line:100
+DisableIntU1RX::asm("BCLRIEC0,#9")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	106;"	d	line:106
+DisableIntU1TX::asm("BCLRIEC0,#10")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	107;"	d	line:107
+DisableIntU2RX::asm("BCLRIEC1,#8")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	142;"	d	line:142
+DisableIntU2TX::asm("BCLRIEC1,#9")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	143;"	d	line:143
+EnableIntFLTA::asm("BSETIEC2,#11")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	376;"	d	line:376
+EnableIntFLTB::asm("BSETIEC2,#12")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	470;"	d	line:470
+EnableIntMCPWM::asm("BSETIEC2,#7")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	372;"	d	line:372
+EnableIntMI2C::asm("BSETIEC0,#14")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	104;"	d	line:104
+EnableIntQEI::asm("BSETIEC2,#8")	C:\Program Files\Microchip\C30 Library\support\h\qei.h	104;"	d	line:104
+EnableIntSI2C::asm("BSETIEC0,#13")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	99;"	d	line:99
+EnableIntU1RX::asm("BSETIEC0,#9")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	103;"	d	line:103
+EnableIntU1TX::asm("BSETIEC0,#10")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	104;"	d	line:104
+EnableIntU2RX::asm("BSETIEC1,#8")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	139;"	d	line:139
+EnableIntU2TX::asm("BSETIEC1,#9")	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	140;"	d	line:140
+FLTACON_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	24;"	d	line:24
+FLTBCON_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	25;"	d	line:25
+Get_Temp	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	126;"	l	line:126
+I2CADD_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	16;"	d	line:16
+I2CBRG_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	13;"	d	line:13
+I2CCON_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	14;"	d	line:14
+I2CRCV_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	11;"	d	line:11
+I2CSTAT_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	15;"	d	line:15
+I2CTRN_VALUE::0x00FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	12;"	d	line:12
+I2C_10BIT_ADD::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	32;"	d	line:32
+I2C_7BIT_ADD::0xFBFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	33;"	d	line:33
+I2C_ACK::0xFFDF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	47;"	d	line:47
+I2C_ACK_DIS::0xFFEF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	51;"	d	line:51
+I2C_ACK_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	50;"	d	line:50
+I2C_CLK_HLD::0xEFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	27;"	d	line:27
+I2C_CLK_REL::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	26;"	d	line:26
+I2C_GCALL_DIS::0xFF7F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	42;"	d	line:42
+I2C_GCALL_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	41;"	d	line:41
+I2C_H	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	6;"	d	line:6
+I2C_IDLE_CON::0xDFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	24;"	d	line:24
+I2C_IDLE_STOP::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	23;"	d	line:23
+I2C_IPMI_DIS::0xF7FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	30;"	d	line:30
+I2C_IPMI_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	29;"	d	line:29
+I2C_NACK::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	48;"	d	line:48
+I2C_OFF::0x7FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	21;"	d	line:21
+I2C_ON::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	20;"	d	line:20
+I2C_RCV_DIS::0xFFF7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	54;"	d	line:54
+I2C_RCV_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	53;"	d	line:53
+I2C_RESTART_DIS::0xFFFD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	60;"	d	line:60
+I2C_RESTART_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	59;"	d	line:59
+I2C_SLW_DIS::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	35;"	d	line:35
+I2C_SLW_EN::0xFDFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	36;"	d	line:36
+I2C_SM_DIS::0xFEFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	39;"	d	line:39
+I2C_SM_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	38;"	d	line:38
+I2C_START_DIS::0xFFFE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	63;"	d	line:63
+I2C_START_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	62;"	d	line:62
+I2C_STOP_DIS::0xFFFB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	57;"	d	line:57
+I2C_STOP_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	56;"	d	line:56
+I2C_STR_DIS::0xFFBF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	45;"	d	line:45
+I2C_STR_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	44;"	d	line:44
+IdleI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	78;"	f	line:78	signature:(void)
+IdleI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	127;"	p	line:127	signature:(void)
+MATCH_INDEX_INPUT_HIGH::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	85;"	d	line:85
+MATCH_INDEX_INPUT_LOW::0xFDFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	86;"	d	line:86
+MATCH_INDEX_INPUT_PHASEA::0xFBFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	83;"	d	line:83
+MATCH_INDEX_INPUT_PHASEB::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	82;"	d	line:82
+MATCH_INDEX_PHASEA_HIGH::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	79;"	d	line:79
+MATCH_INDEX_PHASEA_LOW::0xFDFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	80;"	d	line:80
+MATCH_INDEX_PHASEB_HIGH::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	76;"	d	line:76
+MATCH_INDEX_PHASEB_LOW::0xFBFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	77;"	d	line:77
+MAXCNT_VALUE::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	19;"	d	line:19
+MCLR_EN	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	12;"	v	line:12
+MI2C_INT_OFF::0xFF7F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	96;"	d	line:96
+MI2C_INT_ON::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	95;"	d	line:95
+MI2C_INT_PRI_0::0xFF8F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	91;"	d	line:91
+MI2C_INT_PRI_1::0xFF9F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	90;"	d	line:90
+MI2C_INT_PRI_2::0xFFAF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	89;"	d	line:89
+MI2C_INT_PRI_3::0xFFBF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	88;"	d	line:88
+MI2C_INT_PRI_4::0xFFCF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	87;"	d	line:87
+MI2C_INT_PRI_5::0xFFDF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	86;"	d	line:86
+MI2C_INT_PRI_6::0xFFEF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	85;"	d	line:85
+MI2C_INT_PRI_7::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	84;"	d	line:84
+MasterReadI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	157;"	f	line:157	signature:(void)
+MasterReadI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	143;"	p	line:143	signature:(void)
+MasterWriteI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	174;"	f	line:174	signature:(unsigned char data_out)
+MasterWriteI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	147;"	p	line:147	signature:(unsigned char)
+MastergetcI2C::MasterReadI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	121;"	d	line:121
+MastergetsI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	92;"	f	line:92	signature:(unsigned int length, unsigned char * rdptr, unsigned int i2c_data_wait)
+MastergetsI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	125;"	p	line:125	signature:(unsigned int length, unsigned char * rdptr, unsigned int i2c_data_wait)
+MasterputcI2C::MasterWriteI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	139;"	d	line:139
+MasterputsI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	133;"	f	line:133	signature:(unsigned char * wrptr)
+MasterputsI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	133;"	p	line:133	signature:(unsigned char *)
+NotAckI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	193;"	f	line:193	signature:(void)
+NotAckI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	129;"	p	line:129	signature:(void)
+OVDCON_VALUE::0x3F00	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	37;"	d	line:37
+OVDCON_VALUE::0xFF00	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	34;"	d	line:34
+OpenI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	212;"	f	line:212	signature:(unsigned int config1,unsigned int config2)
+OpenI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	131;"	p	line:131	signature:(unsigned int,unsigned int)
+OpenMCPWM	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.c	107;"	f	line:107	signature:(unsigned int period, unsigned int sptime, unsigned int config1, unsigned int config2, unsigned int config3)
+OpenMCPWM	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	480;"	p	line:480	signature:(unsigned int period, unsigned int sptime,unsigned int config1, unsigned int config2, unsigned int config3)
+OpenQEI	C:\Program Files\Microchip\C30 Library\support\h\qei.h	110;"	p	line:110	signature:(unsigned int config1, unsigned int config2)
+OpenUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	116;"	f	line:116	signature:(unsigned int config1,unsigned int config2, unsigned int ubrg)
+OpenUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	126;"	p	line:126	signature:(unsigned int config1,unsigned int config2, unsigned int ubrg)
+OpenUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	302;"	f	line:302	signature:(unsigned int config1,unsigned int config2, unsigned int ubrg)
+OpenUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	161;"	p	line:161	signature:(unsigned int config1,unsigned int config2, unsigned int ubrg)
+OverrideMCPWM	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.c	130;"	f	line:130	signature:(unsigned int config)
+OverrideMCPWM	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	483;"	p	line:483	signature:(unsigned int config)
+PDC1_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	27;"	d	line:27
+PDC2_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	28;"	d	line:28
+PDC3_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	29;"	d	line:29
+PDC4_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	30;"	d	line:30
+POSCNT_VALUE::0x0000	C:\Program Files\Microchip\C30 Library\support\h\qei.h	18;"	d	line:18
+POS_CNT_ERR_INT_DISABLE::0xFEFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	74;"	d	line:74
+POS_CNT_ERR_INT_ENABLE::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	73;"	d	line:73
+PTCON_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	16;"	d	line:16
+PTMR_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	17;"	d	line:17
+PTPER_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	18;"	d	line:18
+PWMCON1_VALUE::0x0077	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	36;"	d	line:36
+PWMCON1_VALUE::0x00FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	33;"	d	line:33
+PWMCON2_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	21;"	d	line:21
+PWM_DIS::0x20FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	43;"	d	line:43
+PWM_DTA0::0xFFC0	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	141;"	d	line:141
+PWM_DTA10::0xFFCA	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	151;"	d	line:151
+PWM_DTA11::0xFFCB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	152;"	d	line:152
+PWM_DTA12::0xFFCC	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	153;"	d	line:153
+PWM_DTA13::0xFFCD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	154;"	d	line:154
+PWM_DTA14::0xFFCE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	155;"	d	line:155
+PWM_DTA15::0xFFCF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	156;"	d	line:156
+PWM_DTA16::0xFFD0	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	157;"	d	line:157
+PWM_DTA17::0xFFD1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	158;"	d	line:158
+PWM_DTA18::0xFFD2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	159;"	d	line:159
+PWM_DTA19::0xFFD3	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	160;"	d	line:160
+PWM_DTA1::0xFFC1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	142;"	d	line:142
+PWM_DTA20::0xFFD4	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	161;"	d	line:161
+PWM_DTA21::0xFFD5	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	162;"	d	line:162
+PWM_DTA22::0xFFD6	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	163;"	d	line:163
+PWM_DTA23::0xFFD7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	164;"	d	line:164
+PWM_DTA24::0xFFD8	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	165;"	d	line:165
+PWM_DTA25::0xFFD9	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	166;"	d	line:166
+PWM_DTA26::0xFFDA	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	167;"	d	line:167
+PWM_DTA27::0xFFDB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	168;"	d	line:168
+PWM_DTA28::0xFFDC	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	169;"	d	line:169
+PWM_DTA29::0xFFDD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	170;"	d	line:170
+PWM_DTA2::0xFFC2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	143;"	d	line:143
+PWM_DTA30::0xFFDE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	171;"	d	line:171
+PWM_DTA31::0xFFDF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	172;"	d	line:172
+PWM_DTA32::0xFFE0	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	173;"	d	line:173
+PWM_DTA33::0xFFE1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	174;"	d	line:174
+PWM_DTA34::0xFFE2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	175;"	d	line:175
+PWM_DTA35::0xFFE3	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	176;"	d	line:176
+PWM_DTA36::0xFFE4	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	177;"	d	line:177
+PWM_DTA37::0xFFE5	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	178;"	d	line:178
+PWM_DTA38::0xFFE6	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	179;"	d	line:179
+PWM_DTA39::0xFFE7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	180;"	d	line:180
+PWM_DTA3::0xFFC3	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	144;"	d	line:144
+PWM_DTA40::0xFFE8	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	181;"	d	line:181
+PWM_DTA41::0xFFE9	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	182;"	d	line:182
+PWM_DTA42::0xFFEA	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	183;"	d	line:183
+PWM_DTA43::0xFFEB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	184;"	d	line:184
+PWM_DTA44::0xFFEC	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	185;"	d	line:185
+PWM_DTA45::0xFFED	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	186;"	d	line:186
+PWM_DTA46::0xFFEE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	187;"	d	line:187
+PWM_DTA47::0xFFEF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	188;"	d	line:188
+PWM_DTA48::0xFFF0	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	189;"	d	line:189
+PWM_DTA49::0xFFF1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	190;"	d	line:190
+PWM_DTA4::0xFFC4	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	145;"	d	line:145
+PWM_DTA50::0xFFF2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	191;"	d	line:191
+PWM_DTA51::0xFFF3	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	192;"	d	line:192
+PWM_DTA52::0xFFF4	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	193;"	d	line:193
+PWM_DTA53::0xFFF5	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	194;"	d	line:194
+PWM_DTA54::0xFFF6	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	195;"	d	line:195
+PWM_DTA55::0xFFF7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	196;"	d	line:196
+PWM_DTA56::0xFFF8	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	197;"	d	line:197
+PWM_DTA57::0xFFF9	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	198;"	d	line:198
+PWM_DTA58::0xFFFA	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	199;"	d	line:199
+PWM_DTA59::0xFFFB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	200;"	d	line:200
+PWM_DTA5::0xFFC5	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	146;"	d	line:146
+PWM_DTA60::0xFFFC	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	201;"	d	line:201
+PWM_DTA61::0xFFFD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	202;"	d	line:202
+PWM_DTA62::0xFFFE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	203;"	d	line:203
+PWM_DTA63::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	204;"	d	line:204
+PWM_DTA6::0xFFC6	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	147;"	d	line:147
+PWM_DTA7::0xFFC7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	148;"	d	line:148
+PWM_DTA8::0xFFC8	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	149;"	d	line:149
+PWM_DTA9::0xFFC9	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	150;"	d	line:150
+PWM_DTAPS1::0xFF3F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	138;"	d	line:138
+PWM_DTAPS2::0xFF7F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	137;"	d	line:137
+PWM_DTAPS4::0xFFBF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	136;"	d	line:136
+PWM_DTAPS8::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	135;"	d	line:135
+PWM_DTB0::0xC0FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	206;"	d	line:206
+PWM_DTB10::0xCAFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	216;"	d	line:216
+PWM_DTB11::0xCBFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	217;"	d	line:217
+PWM_DTB12::0xCCFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	218;"	d	line:218
+PWM_DTB13::0xCDFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	219;"	d	line:219
+PWM_DTB14::0xCEFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	220;"	d	line:220
+PWM_DTB15::0xCFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	221;"	d	line:221
+PWM_DTB16::0xD0FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	222;"	d	line:222
+PWM_DTB17::0xD1FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	223;"	d	line:223
+PWM_DTB18::0xD2FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	224;"	d	line:224
+PWM_DTB19::0xD3FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	225;"	d	line:225
+PWM_DTB1::0xC1FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	207;"	d	line:207
+PWM_DTB20::0xD4FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	226;"	d	line:226
+PWM_DTB21::0xD5FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	227;"	d	line:227
+PWM_DTB22::0xD6FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	228;"	d	line:228
+PWM_DTB23::0xD7FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	229;"	d	line:229
+PWM_DTB24::0xD8FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	230;"	d	line:230
+PWM_DTB25::0xD9FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	231;"	d	line:231
+PWM_DTB26::0xDAFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	232;"	d	line:232
+PWM_DTB27::0xDBFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	233;"	d	line:233
+PWM_DTB28::0xDCFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	234;"	d	line:234
+PWM_DTB29::0xDDFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	235;"	d	line:235
+PWM_DTB2::0xC2FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	208;"	d	line:208
+PWM_DTB30::0xDEFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	236;"	d	line:236
+PWM_DTB31::0xDFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	237;"	d	line:237
+PWM_DTB32::0xE0FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	238;"	d	line:238
+PWM_DTB33::0xE1FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	239;"	d	line:239
+PWM_DTB34::0xE2FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	240;"	d	line:240
+PWM_DTB35::0xE3FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	241;"	d	line:241
+PWM_DTB36::0xE4FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	242;"	d	line:242
+PWM_DTB37::0xE5FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	243;"	d	line:243
+PWM_DTB38::0xE6FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	244;"	d	line:244
+PWM_DTB39::0xE7FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	245;"	d	line:245
+PWM_DTB3::0xC3FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	209;"	d	line:209
+PWM_DTB40::0xE8FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	246;"	d	line:246
+PWM_DTB41::0xE9FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	247;"	d	line:247
+PWM_DTB42::0xEAFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	248;"	d	line:248
+PWM_DTB43::0xEBFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	249;"	d	line:249
+PWM_DTB44::0xECFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	250;"	d	line:250
+PWM_DTB45::0xEDFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	251;"	d	line:251
+PWM_DTB46::0xEEFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	252;"	d	line:252
+PWM_DTB47::0xEFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	253;"	d	line:253
+PWM_DTB48::0xF0FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	254;"	d	line:254
+PWM_DTB49::0xF1FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	255;"	d	line:255
+PWM_DTB4::0xC4FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	210;"	d	line:210
+PWM_DTB50::0xF2FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	256;"	d	line:256
+PWM_DTB51::0xF3FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	257;"	d	line:257
+PWM_DTB52::0xF4FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	258;"	d	line:258
+PWM_DTB53::0xF5FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	259;"	d	line:259
+PWM_DTB54::0xF6FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	260;"	d	line:260
+PWM_DTB55::0xF7FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	261;"	d	line:261
+PWM_DTB56::0xF8FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	262;"	d	line:262
+PWM_DTB57::0xF9FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	263;"	d	line:263
+PWM_DTB58::0xFAFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	264;"	d	line:264
+PWM_DTB59::0xFBFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	265;"	d	line:265
+PWM_DTB5::0xC5FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	211;"	d	line:211
+PWM_DTB60::0xFCFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	266;"	d	line:266
+PWM_DTB61::0xFDFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	267;"	d	line:267
+PWM_DTB62::0xFEFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	268;"	d	line:268
+PWM_DTB63::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	269;"	d	line:269
+PWM_DTB6::0xC6FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	212;"	d	line:212
+PWM_DTB7::0xC7FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	213;"	d	line:213
+PWM_DTB8::0xC8FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	214;"	d	line:214
+PWM_DTB9::0xC9FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	215;"	d	line:215
+PWM_DTBPS1::0x3FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	133;"	d	line:133
+PWM_DTBPS2::0x7FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	132;"	d	line:132
+PWM_DTBPS4::0xBFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	131;"	d	line:131
+PWM_DTBPS8::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	130;"	d	line:130
+PWM_DTS1A_UA::0x00FD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	276;"	d	line:276
+PWM_DTS1A_UB::0x00FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	282;"	d	line:282
+PWM_DTS1I_UA::0x00FE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	277;"	d	line:277
+PWM_DTS1I_UB::0x00FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	283;"	d	line:283
+PWM_DTS2A_UA::0x00F7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	274;"	d	line:274
+PWM_DTS2A_UB::0x00FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	280;"	d	line:280
+PWM_DTS2I_UA::0x00FB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	275;"	d	line:275
+PWM_DTS2I_UB::0x00FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	281;"	d	line:281
+PWM_DTS3A_UA::0x00DF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	272;"	d	line:272
+PWM_DTS3A_UB::0x00FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	278;"	d	line:278
+PWM_DTS3I_UA::0x00EF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	273;"	d	line:273
+PWM_DTS3I_UB::0x00FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	279;"	d	line:279
+PWM_DTS4A_UA::0x007F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	399;"	d	line:399
+PWM_DTS4A_UB::0x00FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	397;"	d	line:397
+PWM_DTS4I_UA::0x00BF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	400;"	d	line:400
+PWM_DTS4I_UB::0x00FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	398;"	d	line:398
+PWM_EN::0xA0FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	42;"	d	line:42
+PWM_FLTA1_DIS::0xFFFE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	369;"	d	line:369
+PWM_FLTA1_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	366;"	d	line:366
+PWM_FLTA2_DIS::0xFFFD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	368;"	d	line:368
+PWM_FLTA2_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	365;"	d	line:365
+PWM_FLTA3_DIS::0xFFFB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	367;"	d	line:367
+PWM_FLTA3_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	364;"	d	line:364
+PWM_FLTA4_DIS::0xFFF7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	422;"	d	line:422
+PWM_FLTA4_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	421;"	d	line:421
+PWM_FLTA_DIS_INT::0xFF7F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	323;"	d	line:323
+PWM_FLTA_EN_INT::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	322;"	d	line:322
+PWM_FLTA_INT_PR0::0xFF8F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	338;"	d	line:338
+PWM_FLTA_INT_PR1::0xFF9F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	339;"	d	line:339
+PWM_FLTA_INT_PR2::0xFFAF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	340;"	d	line:340
+PWM_FLTA_INT_PR3::0xFFBF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	341;"	d	line:341
+PWM_FLTA_INT_PR4::0xFFCF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	342;"	d	line:342
+PWM_FLTA_INT_PR5::0xFFDF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	343;"	d	line:343
+PWM_FLTA_INT_PR6::0xFFEF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	344;"	d	line:344
+PWM_FLTA_INT_PR7::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	345;"	d	line:345
+PWM_FLTA_MODE_CYCLE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	362;"	d	line:362
+PWM_FLTA_MODE_LATCH::0xFF7F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	363;"	d	line:363
+PWM_FLTB1_DIS::0xFFFE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	466;"	d	line:466
+PWM_FLTB1_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	462;"	d	line:462
+PWM_FLTB2_DIS::0xFFFD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	465;"	d	line:465
+PWM_FLTB2_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	461;"	d	line:461
+PWM_FLTB3_DIS::0xFFFB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	464;"	d	line:464
+PWM_FLTB3_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	460;"	d	line:460
+PWM_FLTB4_DIS::0xFFF7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	463;"	d	line:463
+PWM_FLTB4_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	459;"	d	line:459
+PWM_FLTB_DIS_INT::0xF7FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	426;"	d	line:426
+PWM_FLTB_EN_INT::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	425;"	d	line:425
+PWM_FLTB_INT_PR0::0xF8FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	430;"	d	line:430
+PWM_FLTB_INT_PR1::0xF9FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	431;"	d	line:431
+PWM_FLTB_INT_PR2::0xFAFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	432;"	d	line:432
+PWM_FLTB_INT_PR3::0xFBFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	433;"	d	line:433
+PWM_FLTB_INT_PR4::0xFCFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	434;"	d	line:434
+PWM_FLTB_INT_PR5::0xFDFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	435;"	d	line:435
+PWM_FLTB_INT_PR6::0xFEFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	436;"	d	line:436
+PWM_FLTB_INT_PR7::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	437;"	d	line:437
+PWM_FLTB_MODE_CYCLE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	456;"	d	line:456
+PWM_FLTB_MODE_LATCH::0xFF7F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	457;"	d	line:457
+PWM_GEN_1H::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	289;"	d	line:289
+PWM_GEN_1L::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	292;"	d	line:292
+PWM_GEN_2H::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	288;"	d	line:288
+PWM_GEN_2L::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	291;"	d	line:291
+PWM_GEN_3H::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	287;"	d	line:287
+PWM_GEN_3L::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	290;"	d	line:290
+PWM_GEN_4H::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	403;"	d	line:403
+PWM_GEN_4L::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	404;"	d	line:404
+PWM_IDLE_CON::0x80FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	46;"	d	line:46
+PWM_IDLE_STOP::0xA0FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	45;"	d	line:45
+PWM_INT_DIS::0xFFF7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	319;"	d	line:319
+PWM_INT_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	318;"	d	line:318
+PWM_INT_PR0::0xFFF8	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	327;"	d	line:327
+PWM_INT_PR1::0xFFF9	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	328;"	d	line:328
+PWM_INT_PR2::0xFFFA	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	329;"	d	line:329
+PWM_INT_PR3::0xFFFB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	330;"	d	line:330
+PWM_INT_PR4::0xFFFC	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	331;"	d	line:331
+PWM_INT_PR5::0xFFFD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	332;"	d	line:332
+PWM_INT_PR6::0xFFFE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	333;"	d	line:333
+PWM_INT_PR7::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	334;"	d	line:334
+PWM_IPCLK_SCALE16::0xA0FB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	67;"	d	line:67
+PWM_IPCLK_SCALE1::0xA0F3	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	65;"	d	line:65
+PWM_IPCLK_SCALE4::0xA0F7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	66;"	d	line:66
+PWM_IPCLK_SCALE64::0xA0FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	68;"	d	line:68
+PWM_MOD1_COMP::0x0EFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	79;"	d	line:79
+PWM_MOD1_IND::0x0FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	82;"	d	line:82
+PWM_MOD2_COMP::0x0DFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	78;"	d	line:78
+PWM_MOD2_IND::0x0FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	81;"	d	line:81
+PWM_MOD3_COMP::0x0BFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	77;"	d	line:77
+PWM_MOD3_IND::0x0FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	80;"	d	line:80
+PWM_MOD4_COMP::0x07FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	387;"	d	line:387
+PWM_MOD4_IND::0x0FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	388;"	d	line:388
+PWM_MOD_DBL::0xA0FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	73;"	d	line:73
+PWM_MOD_FREE::0xA0FC	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	70;"	d	line:70
+PWM_MOD_SING::0xA0FD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	71;"	d	line:71
+PWM_MOD_UPDN::0xA0FE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	72;"	d	line:72
+PWM_OP_SCALE10::0xA09F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	57;"	d	line:57
+PWM_OP_SCALE11::0xA0AF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	58;"	d	line:58
+PWM_OP_SCALE12::0xA0BF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	59;"	d	line:59
+PWM_OP_SCALE13::0xA0CF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	60;"	d	line:60
+PWM_OP_SCALE14::0xA0DF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	61;"	d	line:61
+PWM_OP_SCALE15::0xA0EF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	62;"	d	line:62
+PWM_OP_SCALE16::0xA0FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	63;"	d	line:63
+PWM_OP_SCALE1::0xA00F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	48;"	d	line:48
+PWM_OP_SCALE2::0xA01F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	49;"	d	line:49
+PWM_OP_SCALE3::0xA02F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	50;"	d	line:50
+PWM_OP_SCALE4::0xA03F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	51;"	d	line:51
+PWM_OP_SCALE5::0xA04F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	52;"	d	line:52
+PWM_OP_SCALE6::0xA05F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	53;"	d	line:53
+PWM_OP_SCALE7::0xA06F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	54;"	d	line:54
+PWM_OP_SCALE8::0xA07F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	55;"	d	line:55
+PWM_OP_SCALE9::0xA08F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	56;"	d	line:56
+PWM_OSYNC_PWM::0x0F03	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	122;"	d	line:122
+PWM_OSYNC_TCY::0x0F01	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	123;"	d	line:123
+PWM_OVA1H_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	351;"	d	line:351
+PWM_OVA1H_INACTIVE::0xFDFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	357;"	d	line:357
+PWM_OVA1L_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	354;"	d	line:354
+PWM_OVA1L_INACTIVE::0xFEFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	360;"	d	line:360
+PWM_OVA2H_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	350;"	d	line:350
+PWM_OVA2H_INACTIVE::0xF7FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	356;"	d	line:356
+PWM_OVA2L_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	353;"	d	line:353
+PWM_OVA2L_INACTIVE::0xFBFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	359;"	d	line:359
+PWM_OVA3H_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	349;"	d	line:349
+PWM_OVA3H_INACTIVE::0xDFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	355;"	d	line:355
+PWM_OVA3L_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	352;"	d	line:352
+PWM_OVA3L_INACTIVE::0xEFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	358;"	d	line:358
+PWM_OVA4H_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	417;"	d	line:417
+PWM_OVA4H_INACTIVE::0x7FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	419;"	d	line:419
+PWM_OVA4L_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	418;"	d	line:418
+PWM_OVA4L_INACTIVE::0xBFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	420;"	d	line:420
+PWM_OVB1H_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	444;"	d	line:444
+PWM_OVB1H_INACTIVE::0xFDFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	451;"	d	line:451
+PWM_OVB1L_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	447;"	d	line:447
+PWM_OVB1L_INACTIVE::0xFEFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	455;"	d	line:455
+PWM_OVB2H_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	443;"	d	line:443
+PWM_OVB2H_INACTIVE::0xF7FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	450;"	d	line:450
+PWM_OVB2L_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	446;"	d	line:446
+PWM_OVB2L_INACTIVE::0xFBFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	454;"	d	line:454
+PWM_OVB3H_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	442;"	d	line:442
+PWM_OVB3H_INACTIVE::0xDFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	449;"	d	line:449
+PWM_OVB3L_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	445;"	d	line:445
+PWM_OVB3L_INACTIVE::0xEFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	453;"	d	line:453
+PWM_OVB4H_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	440;"	d	line:440
+PWM_OVB4H_INACTIVE::0x7FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	448;"	d	line:448
+PWM_OVB4L_ACTIVE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	441;"	d	line:441
+PWM_OVB4L_INACTIVE::0xBFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	452;"	d	line:452
+PWM_PDIS1H::0x0FEF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	91;"	d	line:91
+PWM_PDIS1L::0x0FFE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	100;"	d	line:100
+PWM_PDIS2H::0x0FDF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	88;"	d	line:88
+PWM_PDIS2L::0x0FFD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	97;"	d	line:97
+PWM_PDIS3H::0x0FBF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	85;"	d	line:85
+PWM_PDIS3L::0x0FFB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	94;"	d	line:94
+PWM_PDIS4H::0x0F7F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	391;"	d	line:391
+PWM_PDIS4L::0x0FF7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	394;"	d	line:394
+PWM_PEN1H::0x0FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	90;"	d	line:90
+PWM_PEN1L::0x0FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	99;"	d	line:99
+PWM_PEN2H::0x0FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	87;"	d	line:87
+PWM_PEN2L::0x0FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	96;"	d	line:96
+PWM_PEN3H::0x0FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	84;"	d	line:84
+PWM_PEN3L::0x0FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	93;"	d	line:93
+PWM_PEN4H::0x0FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	390;"	d	line:390
+PWM_PEN4L::0x0FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	393;"	d	line:393
+PWM_POUT1H_ACT::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	311;"	d	line:311
+PWM_POUT1H_INACT::0xFFFD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	312;"	d	line:312
+PWM_POUT1L_ACT::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	313;"	d	line:313
+PWM_POUT1L_INACT::0xFFFE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	314;"	d	line:314
+PWM_POUT2H_ACT::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	306;"	d	line:306
+PWM_POUT2H_INACT::0xFFF7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	307;"	d	line:307
+PWM_POUT2L_ACT::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	308;"	d	line:308
+PWM_POUT2L_INACT::0xFFFB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	309;"	d	line:309
+PWM_POUT3H_ACT::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	301;"	d	line:301
+PWM_POUT3H_INACT::0xFFDF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	302;"	d	line:302
+PWM_POUT3L_ACT::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	303;"	d	line:303
+PWM_POUT3L_INACT::0xFFEF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	304;"	d	line:304
+PWM_POUT4H_ACT::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	409;"	d	line:409
+PWM_POUT4H_INACT::0xFF7F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	410;"	d	line:410
+PWM_POUT4L_ACT::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	412;"	d	line:412
+PWM_POUT4L_INACT::0xFFBF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	413;"	d	line:413
+PWM_POUT_1H::0xFDFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	298;"	d	line:298
+PWM_POUT_1L::0xFEFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	299;"	d	line:299
+PWM_POUT_2H::0xF7FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	296;"	d	line:296
+PWM_POUT_2L::0xFBFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	297;"	d	line:297
+PWM_POUT_3H::0xDFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	294;"	d	line:294
+PWM_POUT_3L::0xEFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	295;"	d	line:295
+PWM_POUT_4H::0x7FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	406;"	d	line:406
+PWM_POUT_4L::0xBFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	407;"	d	line:407
+PWM_SEVOPS10::0x0903	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	114;"	d	line:114
+PWM_SEVOPS11::0x0A03	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	115;"	d	line:115
+PWM_SEVOPS12::0x0B03	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	116;"	d	line:116
+PWM_SEVOPS13::0x0C03	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	117;"	d	line:117
+PWM_SEVOPS14::0x0D03	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	118;"	d	line:118
+PWM_SEVOPS15::0x0E03	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	119;"	d	line:119
+PWM_SEVOPS16::0x0F03	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	120;"	d	line:120
+PWM_SEVOPS1::0x0003	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	105;"	d	line:105
+PWM_SEVOPS2::0x0103	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	106;"	d	line:106
+PWM_SEVOPS3::0x0203	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	107;"	d	line:107
+PWM_SEVOPS4::0x0303	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	108;"	d	line:108
+PWM_SEVOPS5::0x0403	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	109;"	d	line:109
+PWM_SEVOPS6::0x0503	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	110;"	d	line:110
+PWM_SEVOPS7::0x0603	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	111;"	d	line:111
+PWM_SEVOPS8::0x0703	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	112;"	d	line:112
+PWM_SEVOPS9::0x0803	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	113;"	d	line:113
+PWM_UDIS::0x0F03	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	125;"	d	line:125
+PWM_UEN::0x0F02	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	126;"	d	line:126
+QEICON_VALUE::0x0000	C:\Program Files\Microchip\C30 Library\support\h\qei.h	16;"	d	line:16
+QEI_CLK_PRESCALE_1::0xFFE7	C:\Program Files\Microchip\C30 Library\support\h\qei.h	32;"	d	line:32
+QEI_CLK_PRESCALE_256::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	35;"	d	line:35
+QEI_CLK_PRESCALE_64::0xFFF7	C:\Program Files\Microchip\C30 Library\support\h\qei.h	34;"	d	line:34
+QEI_CLK_PRESCALE_8::0xFFEF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	33;"	d	line:33
+QEI_DIR_SEL_CNTRL::0xFFFE	C:\Program Files\Microchip\C30 Library\support\h\qei.h	24;"	d	line:24
+QEI_DIR_SEL_QEB::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	23;"	d	line:23
+QEI_DOWN_COUNT::0xF7FF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	54;"	d	line:54
+QEI_EXT_CLK::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	26;"	d	line:26
+QEI_GATED_ACC_DISABLE::0xFFDF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	38;"	d	line:38
+QEI_GATED_ACC_ENABLE::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	37;"	d	line:37
+QEI_IDLE_CON::0xDFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	57;"	d	line:57
+QEI_IDLE_STOP::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	56;"	d	line:56
+QEI_INDEX_RESET_DISABLE::0xFFFB	C:\Program Files\Microchip\C30 Library\support\h\qei.h	30;"	d	line:30
+QEI_INDEX_RESET_ENABLE::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	29;"	d	line:29
+QEI_INPUTS_NOSWAP::0xFF7F	C:\Program Files\Microchip\C30 Library\support\h\qei.h	44;"	d	line:44
+QEI_INPUTS_SWAP::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	43;"	d	line:43
+QEI_INT_CLK::0xFFFD	C:\Program Files\Microchip\C30 Library\support\h\qei.h	27;"	d	line:27
+QEI_INT_DISABLE::0xFF7F	C:\Program Files\Microchip\C30 Library\support\h\qei.h	101;"	d	line:101
+QEI_INT_ENABLE::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	100;"	d	line:100
+QEI_INT_PRI_0::0xFFF8	C:\Program Files\Microchip\C30 Library\support\h\qei.h	90;"	d	line:90
+QEI_INT_PRI_1::0xFFF9	C:\Program Files\Microchip\C30 Library\support\h\qei.h	91;"	d	line:91
+QEI_INT_PRI_2::0xFFFA	C:\Program Files\Microchip\C30 Library\support\h\qei.h	92;"	d	line:92
+QEI_INT_PRI_3::0xFFFB	C:\Program Files\Microchip\C30 Library\support\h\qei.h	93;"	d	line:93
+QEI_INT_PRI_4::0xFFFC	C:\Program Files\Microchip\C30 Library\support\h\qei.h	94;"	d	line:94
+QEI_INT_PRI_5::0xFFFD	C:\Program Files\Microchip\C30 Library\support\h\qei.h	95;"	d	line:95
+QEI_INT_PRI_6::0xFFFE	C:\Program Files\Microchip\C30 Library\support\h\qei.h	96;"	d	line:96
+QEI_INT_PRI_7::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	97;"	d	line:97
+QEI_LOGIC_CONTROL_IO::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	40;"	d	line:40
+QEI_MODE_OFF::0xF8FF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	51;"	d	line:51
+QEI_MODE_TIMER::0xF9FF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	50;"	d	line:50
+QEI_MODE_x2_MATCH::0xFDFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	48;"	d	line:48
+QEI_MODE_x2_PULSE::0xFCFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	49;"	d	line:49
+QEI_MODE_x4_MATCH::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	46;"	d	line:46
+QEI_MODE_x4_PULSE::0xFEFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	47;"	d	line:47
+QEI_NORMAL_IO::0xFFBF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	41;"	d	line:41
+QEI_QE_CLK_DIVIDE_1_128::0xFFEF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	67;"	d	line:67
+QEI_QE_CLK_DIVIDE_1_16::0xFFBF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	64;"	d	line:64
+QEI_QE_CLK_DIVIDE_1_1::0xFF8F	C:\Program Files\Microchip\C30 Library\support\h\qei.h	61;"	d	line:61
+QEI_QE_CLK_DIVIDE_1_256::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	68;"	d	line:68
+QEI_QE_CLK_DIVIDE_1_2::0xFF9F	C:\Program Files\Microchip\C30 Library\support\h\qei.h	62;"	d	line:62
+QEI_QE_CLK_DIVIDE_1_32::0xFFCF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	65;"	d	line:65
+QEI_QE_CLK_DIVIDE_1_4::0xFFAF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	63;"	d	line:63
+QEI_QE_CLK_DIVIDE_1_64::0xFFDF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	66;"	d	line:66
+QEI_QE_OUT_DISABLE::0xFF7F	C:\Program Files\Microchip\C30 Library\support\h\qei.h	71;"	d	line:71
+QEI_QE_OUT_ENABLE::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	70;"	d	line:70
+QEI_UP_COUNT::0xFFFF	C:\Program Files\Microchip\C30 Library\support\h\qei.h	53;"	d	line:53
+ReadQEI	C:\Program Files\Microchip\C30 Library\support\h\qei.h	116;"	p	line:116	signature:(void)
+ReadUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	161;"	f	line:161	signature:(void)
+ReadUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	128;"	p	line:128	signature:(void)
+ReadUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	347;"	f	line:347	signature:(void)
+ReadUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	163;"	p	line:163	signature:(void)
+RestartI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	225;"	f	line:225	signature:(void)
+RestartI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	149;"	p	line:149	signature:(void)
+SEVTCMP_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	19;"	d	line:19
+SI2C_INT_OFF::0xFFF7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	80;"	d	line:80
+SI2C_INT_ON::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	79;"	d	line:79
+SI2C_INT_PRI_0::0xFFF8	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	75;"	d	line:75
+SI2C_INT_PRI_1::0xFFF9	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	74;"	d	line:74
+SI2C_INT_PRI_2::0xFFFA	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	73;"	d	line:73
+SI2C_INT_PRI_3::0xFFFB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	72;"	d	line:72
+SI2C_INT_PRI_4::0xFFFC	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	71;"	d	line:71
+SI2C_INT_PRI_5::0xFFFD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	70;"	d	line:70
+SI2C_INT_PRI_6::0xFFFE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	69;"	d	line:69
+SI2C_INT_PRI_7::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	68;"	d	line:68
+SetDCMCPWM	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.c	152;"	f	line:152	signature:(unsigned int dutycyclereg, unsigned int dutycycle, char updatedisable)
+SetDCMCPWM	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	485;"	p	line:485	signature:(unsigned int dutycyclereg, unsigned int dutycycle, char updatedisable)
+SetMCPWMDeadTimeAssignment	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.c	172;"	f	line:172	signature:(unsigned int config)
+SetMCPWMDeadTimeAssignment	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	494;"	p	line:494	signature:(unsigned int config)
+SetMCPWMDeadTimeGeneration	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.c	189;"	f	line:189	signature:(unsigned int config)
+SetMCPWMDeadTimeGeneration	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	488;"	p	line:488	signature:(unsigned int config)
+SetMCPWMFaultA	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.c	210;"	f	line:210	signature:(unsigned int config)
+SetMCPWMFaultA	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	490;"	p	line:490	signature:(unsigned int config)
+SetMCPWMFaultB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.c	230;"	f	line:230	signature:(unsigned int config)
+SetMCPWMFaultB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	496;"	p	line:496	signature:(unsigned int config)
+SetPriorityIntFLTA::(priority)(IPC10bits.FLTAIP=pr	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	378;"	d	line:378
+SetPriorityIntFLTB::(priority)(IPC11bits.FLTBIP=pr	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	472;"	d	line:472
+SetPriorityIntMCPWM::(priority)(IPC9bits.PWMIP=prio	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	374;"	d	line:374
+SetPriorityIntMI2C::(priority)(IPC3bits.MI2CIP=pri	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	106;"	d	line:106
+SetPriorityIntQEI::(priority)(IPC10bits.QEIIP=pri	C:\Program Files\Microchip\C30 Library\support\h\qei.h	106;"	d	line:106
+SetPriorityIntSI2C::(priority)(IPC3bits.SI2CIP=pri	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	101;"	d	line:101
+SetPriorityIntU1RX::(priority)(IPC2bits.U1RXIP=pri	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	109;"	d	line:109
+SetPriorityIntU1TX::(priority)(IPC2bits.U1TXIP=pri	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	110;"	d	line:110
+SetPriorityIntU2RX::(priority)(IPC6bits.U2RXIP=pri	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	145;"	d	line:145
+SetPriorityIntU2TX::(priority)(IPC6bits.U2TXIP=pri	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	146;"	d	line:146
+SlaveReadI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	300;"	f	line:300	signature:(void)
+SlaveReadI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	141;"	p	line:141	signature:(void)
+SlaveWriteI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	316;"	f	line:316	signature:(unsigned char data_out)
+SlaveWriteI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	145;"	p	line:145	signature:(unsigned char)
+SlavegetcI2C::SlaveReadI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	119;"	d	line:119
+SlavegetsI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	238;"	f	line:238	signature:(unsigned char * rdptr, unsigned int i2c_data_wait)
+SlavegetsI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	123;"	p	line:123	signature:(unsigned char *, unsigned int)
+SlaveputcI2C::SlaveWriteI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	137;"	d	line:137
+SlaveputsI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	279;"	f	line:279	signature:(unsigned char * wrptr)
+SlaveputsI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	135;"	p	line:135	signature:(unsigned char *)
+StartI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	329;"	f	line:329	signature:(void)
+StartI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	151;"	p	line:151	signature:(void)
+StopI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	341;"	f	line:341	signature:(void)
+StopI2C	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.h	153;"	p	line:153	signature:(void)
+UART_1STOPBIT::0xEFE6	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	55;"	d	line:55
+UART_2STOPBITS::0xEFE7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	54;"	d	line:54
+UART_ADR_DETECT_DIS::0xFFDF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	73;"	d	line:73
+UART_ADR_DETECT_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	72;"	d	line:72
+UART_ALTRX_ALTTX::0xEFE7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	35;"	d	line:35
+UART_DIS::0x6FE7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	24;"	d	line:24
+UART_DIS_ABAUD::0xEFC7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	47;"	d	line:47
+UART_DIS_LOOPBACK::0xEFA7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	44;"	d	line:44
+UART_DIS_WAKE::0xEF67	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	41;"	d	line:41
+UART_EN::0xEFE7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	23;"	d	line:23
+UART_EN_ABAUD::0xEFE7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	46;"	d	line:46
+UART_EN_LOOPBACK::0xEFE7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	43;"	d	line:43
+UART_EN_WAKE::0xEFE7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	40;"	d	line:40
+UART_EVEN_PAR_8BIT::0xEFE3	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	51;"	d	line:51
+UART_IDLE_CON::0xCFE7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	26;"	d	line:26
+UART_IDLE_STOP::0xEFE7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	27;"	d	line:27
+UART_INT_RX_3_4_FUL::0xFFBF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	69;"	d	line:69
+UART_INT_RX_BUF_FUL::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	68;"	d	line:68
+UART_INT_RX_CHAR::0xFF7F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	71;"	d	line:71
+UART_INT_TX::0x7FFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	60;"	d	line:60
+UART_INT_TX_BUF_EMPTY::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	59;"	d	line:59
+UART_NO_PAR_8BIT::0xEFE1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	52;"	d	line:52
+UART_NO_PAR_9BIT::0xEFE7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	49;"	d	line:49
+UART_ODD_PAR_8BIT::0xEFE5	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	50;"	d	line:50
+UART_RX_INT_DIS::0xFFF7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	79;"	d	line:79
+UART_RX_INT_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	78;"	d	line:78
+UART_RX_INT_PR0::0xFFF8	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	81;"	d	line:81
+UART_RX_INT_PR1::0xFFF9	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	82;"	d	line:82
+UART_RX_INT_PR2::0xFFFA	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	83;"	d	line:83
+UART_RX_INT_PR3::0xFFFB	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	84;"	d	line:84
+UART_RX_INT_PR4::0xFFFC	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	85;"	d	line:85
+UART_RX_INT_PR5::0xFFFD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	86;"	d	line:86
+UART_RX_INT_PR6::0xFFFE	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	87;"	d	line:87
+UART_RX_INT_PR7::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	88;"	d	line:88
+UART_RX_OVERRUN_CLEAR::0xFFFD	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	75;"	d	line:75
+UART_RX_TX::0xEBE7	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	36;"	d	line:36
+UART_TX_DISABLE::0xFBFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	66;"	d	line:66
+UART_TX_ENABLE::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	65;"	d	line:65
+UART_TX_INT_DIS::0xFF7F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	91;"	d	line:91
+UART_TX_INT_EN::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	90;"	d	line:90
+UART_TX_INT_PR0::0xFF8F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	93;"	d	line:93
+UART_TX_INT_PR1::0xFF9F	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	94;"	d	line:94
+UART_TX_INT_PR2::0xFFAF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	95;"	d	line:95
+UART_TX_INT_PR3::0xFFBF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	96;"	d	line:96
+UART_TX_INT_PR4::0xFFCF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	97;"	d	line:97
+UART_TX_INT_PR5::0xFFDF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	98;"	d	line:98
+UART_TX_INT_PR6::0xFFEF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	99;"	d	line:99
+UART_TX_INT_PR7::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	100;"	d	line:100
+UART_TX_PIN_LOW::0xFFFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	63;"	d	line:63
+UART_TX_PIN_NORMAL::0xF7FF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	62;"	d	line:62
+UxBRG_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	14;"	d	line:14
+UxMODE_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	10;"	d	line:10
+UxRXREG_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	13;"	d	line:13
+UxSTA_VALUE::0x0110	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	11;"	d	line:11
+UxTXREG_VALUE::0x0000	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	12;"	d	line:12
+WDT_OFF	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	11;"	v	line:11
+WriteQEI	C:\Program Files\Microchip\C30 Library\support\h\qei.h	118;"	p	line:118	signature:(unsigned int position)
+WriteUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	175;"	f	line:175	signature:(unsigned int data)
+WriteUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	115;"	p	line:115	signature:(unsigned int data)
+WriteUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	361;"	f	line:361	signature:(unsigned int data)
+WriteUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	150;"	p	line:150	signature:(unsigned int data)
+XT_PLL16	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	9;"	v	line:9
+_U1RXInterrupt	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	74;"	f	line:74	signature:(void)
+__PWM_H	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\pwm.h	6;"	d	line:6
+__QEI_H	C:\Program Files\Microchip\C30 Library\support\h\qei.h	6;"	d	line:6
+__UART_H	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	5;"	d	line:5
+adc_init	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	180;"	p	line:180	file:
+adcptr	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	186;"	l	line:186
+ax12_buf	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	52;"	v	line:52
+buf	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	28;"	v	line:28
+c	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	103;"	l	line:103
+carbon	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	30;"	v	line:30
+co2_0	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	205;"	l	line:205
+co2_1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	206;"	l	line:206
+co2_2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	207;"	l	line:207
+co2_3	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	208;"	l	line:208
+co2_4	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	209;"	l	line:209
+co2_use	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	211;"	l	line:211
+convert_param	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	101;"	f	line:101	signature:(char dat)
+convert_param	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	70;"	p	line:70	file:	signature:(char dat)
+convert_position	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	56;"	p	line:56	file:
+convert_speed	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	55;"	p	line:55	file:
+count	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	186;"	l	line:186
+delay_ms	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	168;"	f	line:168	signature:(unsigned int ms)
+dutycycle	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	49;"	v	line:49
+getcUART1::ReadUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	16;"	d	line:16
+getcUART2::ReadUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	19;"	d	line:19
+getsUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	80;"	f	line:80	signature:(unsigned int length,unsigned int *buffer, unsigned int uart_data_wait)
+getsUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	123;"	p	line:123	signature:(unsigned int length,unsigned int *buffer, unsigned int uart_data_wait)
+getsUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	265;"	f	line:265	signature:(unsigned int length,unsigned int *buffer, unsigned int uart_data_wait)
+getsUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	158;"	p	line:158	signature:(unsigned int length,unsigned int *buffer, unsigned int uart_data_wait)
+go_robotis	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	62;"	p	line:62	file:	signature:(int id,int pos,int sp)
+i	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	240;"	l	line:240
+i	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	170;"	l	line:170
+i	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	197;"	l	line:197
+i2c_rx	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	26;"	p	line:26	file:
+init_i2c	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	25;"	p	line:25	file:	signature:(void)
+init_i2c	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	317;"	f	line:317	signature:(void)
+init_uart	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	179;"	p	line:179	file:
+init_uart	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	234;"	f	line:234
+joint1_angle	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	41;"	v	line:41
+joint2_angle	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	42;"	v	line:42
+joint_angle	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	40;"	v	line:40
+lk	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	60;"	v	line:60
+ll	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	50;"	v	line:50
+main	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	184;"	f	line:184	signature:(void)
+o	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	67;"	v	line:67
+pack_param	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	105;"	l	line:105
+packet	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	46;"	v	line:46
+packet_tx	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	31;"	v	line:31
+packet_use	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	47;"	v	line:47
+per_duty	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	48;"	v	line:48
+putcUART1::WriteUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	17;"	d	line:17
+putcUART2::WriteUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	20;"	d	line:20
+putsUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	131;"	f	line:131	signature:(unsigned int *buffer)
+putsUART1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	113;"	p	line:113	signature:(unsigned int *buffer)
+putsUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	317;"	f	line:317	signature:(unsigned int *buffer)
+putsUART2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.h	148;"	p	line:148	signature:(unsigned int *buffer)
+readRegis	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	359;"	f	line:359	signature:(unsigned char reg)
+readRegis	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	54;"	p	line:54	file:	signature:(unsigned char reg)
+read_tpa81	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	124;"	f	line:124	signature:(unsigned char Read_Addr, unsigned char Reg)
+run_print	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	59;"	v	line:59
+rx_data	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	33;"	v	line:33
+speed	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	36;"	v	line:36
+speed1	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	37;"	v	line:37
+speed2	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	38;"	v	line:38
+temp	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	242;"	l	line:242
+temp	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	104;"	l	line:104
+temp	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	32;"	v	line:32
+temp_avg	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	203;"	l	line:203
+temp_ptr	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	133;"	l	line:133
+temp_ptr	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	270;"	l	line:270
+temp_ptr	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	319;"	l	line:319
+temp_ptr	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	84;"	l	line:84
+temp_uart	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	66;"	v	line:66
+temper	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	65;"	v	line:65
+tx_data	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	22;"	v	line:22
+value	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	361;"	l	line:361
+wait	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	241;"	l	line:241
+wait	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\i2c.c	94;"	l	line:94
+wait	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	269;"	l	line:269
+wait	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\uart.c	83;"	l	line:83
+wrptr	C:\Users\RACHOT\Desktop\RescueRobot(Update)\Sensor_Read\Program(161110)AddLimit\Test_LCD_QEI_MOTOR\test.c	21;"	v	line:21
